@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>org.nationalGrid.gbePathfinderCorrosion</string>
 				<key>bundle-version</key>
-				<string>1.6.4</string>
+				<string>1.6.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>pathfinder</string>
+				<string>Pathfinder</string>
 			</dict>
 		</dict>
 	</array>
