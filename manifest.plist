@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>org.nationalGrid.gbePathfinderCorrosion</string>
 				<key>bundle-version</key>
-				<string>1.6.6</string>
+				<string>1.6.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
